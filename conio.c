@@ -1,7 +1,3 @@
-// conio.c for ANSI C and C++
-// Extra functions are also provided.
-// (C) 2013 Nandakumar <nandakumar96@gmail.com>
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
